@@ -1,0 +1,2 @@
+# VLC_Player_for_MedicalCenter
+为项目验收做的一个垃圾的视频播放器，调用VLC库实现网络媒体流播放，支持TCP Server, 支持QChart曲线显示医疗数据
